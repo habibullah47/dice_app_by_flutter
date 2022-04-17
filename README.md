@@ -1,6 +1,6 @@
 # app
 
-A basic funktional flutter app
+A basic functional flutter app
 
 ## Getting Started
 
